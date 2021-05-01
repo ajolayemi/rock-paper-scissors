@@ -1,1 +1,1 @@
-# Write your code here
+#!/usr/bin/env python
